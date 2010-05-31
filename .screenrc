@@ -1,0 +1,6 @@
+startup_message off
+
+hardstatus on 
+hardstatus alwayslastline
+hardstatus string '%{ck}[ %{R}%H %{c}][%= %{wk}%?%-Lw%?%{=b kR}(%{W}%n*%f %t%?(%u)%?%{=b kR})%{= kw}%?%+Lw%?%?%= %{c}][ %{M}%l%{c} ][%{R} %D %d %M %Y %c:%s %{c}]'
+
